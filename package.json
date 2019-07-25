@@ -1,0 +1,24 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/latentflip/hello-world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/latentflip/hello-world/issues"
+  },
+  "homepage": "https://github.com/latentflip/hello-world#readme",
+  "dependencies": {
+    "lodash": "4.17.4",
+    "eslint": "4.18.1"
+  }
+}
