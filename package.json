@@ -19,6 +19,6 @@
   "homepage": "https://github.com/latentflip/hello-world#readme",
   "dependencies": {
     "lodash": "4.17.4",
-    "eslint": "4.18.1"
+    "eslint": "6.6.0"
   }
 }
